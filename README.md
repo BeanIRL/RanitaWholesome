@@ -1,2 +1,2 @@
 # RanitaWholesome
-Unity wideogame with basic remote MySQL functionality.
+Unity videogame with basic remote MySQL functionality.
